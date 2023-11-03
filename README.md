@@ -1,2 +1,2 @@
-# html-css
-Repositório com exemplo de HTML e CSS.
+# HTML e CSS
+Repositório com exemplo simples de HTML e CSS.
